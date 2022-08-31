@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhtasAppOpen.Net.Maui", "WhtasAppOpen.Net.Maui\WhtasAppOpen.Net.Maui.csproj", "{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260BF9BE-5AC0-4AA4-8FDD-2AAE0F40BDC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7249E30D-AD25-4643-B766-97FC2F46C663}
+	EndGlobalSection
+EndGlobal
